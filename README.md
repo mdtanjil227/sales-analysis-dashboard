@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard (Excel)
+# Sales Data Analysis Dashboard (Excel)
 
 ## Project Overview
 This project analyzes retail sales data using advanced Excel features to identify top customers, product performance, and profitability across different categories and regions. An interactive dashboard was created to explore sales insights using slicers and pivot charts.
